@@ -32,7 +32,7 @@ body {
 .P1 {
   font-size: 24px; 
   animation: colorChange 1s infinite; 
-  margin-left: 200px;
+  margin-left: 150px;
   margin-top: 150px;
   font-style:oblique;
 }

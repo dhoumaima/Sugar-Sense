@@ -12,7 +12,7 @@ function App() {
      </p>
       <p className="P1">Your journey towards a healthier life starts here!</p>
       
-      <button className="button">Démarrer le test</button>
+      <button className="button">Testing</button>
     </div>
   );
 }
